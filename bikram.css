@@ -1,0 +1,11 @@
+body {
+    color: black;
+    background-color: white;
+    font-family: 'Bikram', sans-serif;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
